@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy to see such a precise video which i wanted to see </h1>
+   <h1> Thankyou, Happy to see such a precise video which i wanted to see but now i am pretty much clear with few jenkins concepts </h1>
 
   
 </form>
